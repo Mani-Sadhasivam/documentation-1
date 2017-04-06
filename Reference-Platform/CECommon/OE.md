@@ -68,6 +68,10 @@ $ cd /etc/apt/
 $ sudo vim sources.list
 ```
 
+Install OpenSSL C++ library dependency:
+
+`$ sudo apt-get install libssl-dev`
+
 All required dependencies should now be installed on your host environment, you are ready to begin your build environment setup.
 
 
